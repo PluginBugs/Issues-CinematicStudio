@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discord server
+    url: https://discord.gg/sMAE3Na
+    about: My personal Discord server
+  - name: CinematicsStudio wiki
+    url: https://lonedev.gitbook.io/cinematicstudio
+    about: Official wiki of CinematicsStudio
+  - name: CinematicsStudio Spigot page
+    url: https://www.spigotmc.org/resources/88671/
+    about: Official Spigot page of CinematicsStudio
